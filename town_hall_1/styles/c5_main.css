@@ -12,15 +12,16 @@ body {
 	margin-top:0px;
 	margin-bottom:0px;
     margin-left:auto;
-    margin-righ:auto;
+    margin-right:auto;
 background-color:#fffded;
-
+}
     header{background-image: linear-gradient(
-45deg, #f6bb73 30%, white 50%, #f6bb73 80%); 
+-30deg,#f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%); 
 padding-top:1.5em;
 padding-bottom:2.0em;
 padding-left:30px;
-padding-righ:30px;}
+padding-right:30px;
+border-bottom-color: #931420;}
 	
 a:focus, a:hover {
 	font-style: italic;
