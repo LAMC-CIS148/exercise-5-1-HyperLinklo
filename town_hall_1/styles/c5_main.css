@@ -13,6 +13,8 @@ body {
 	margin-bottom:0px;
     margin-left:auto;
     margin-righ:auto;
+background-color:#fffded;
+
 }
 a:focus, a:hover {
 	font-style: italic;
