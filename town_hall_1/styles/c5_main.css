@@ -29,6 +29,7 @@ a:focus, a:hover {
 /* the styles for the header */
 header h1{ border-bottom-color: #931420;
 	border-top-color: #931420;}
+
 header h2 {
 	font-size: 175%;
 	color: var(--global-color-1);
@@ -49,7 +50,7 @@ header img {
 main {
 	clear: left;
 	padding-left:30px;
-	padding-righ:30px;
+	padding-right:30px;
 	
 }
 main h1 {
@@ -84,6 +85,13 @@ main li {
 
 /* the styles for the footer */
 footer p {
-	text-align: center;
+	background-color:#931420;
+		width: 100%;
+		height: 50px;
+		border-top: 1px solid #E0E0E0;
+		bottom: 0px; 
+		left: 0px; 
+		text-align: center; 
+		
 	padding: 1em 0;
 }
