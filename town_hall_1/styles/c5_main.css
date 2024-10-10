@@ -21,14 +21,14 @@ padding-top:1.5em;
 padding-bottom:2.0em;
 padding-left:30px;
 padding-right:30px;
-border-bottom-color: #931420;}
+border-bottom:#931420;}
 	
 a:focus, a:hover {
 	font-style: italic;
 }
 /* the styles for the header */
-header h1{ border-bottom-color: #931420;
-	border-top-color: #931420;}
+header h1{ border-bottom:#931420;
+	border-top:#931420;}
 
 header h2 {
 	font-size: 175%;
@@ -86,11 +86,7 @@ main li {
 /* the styles for the footer */
 footer p {
 	background-color:#931420;
-		width: 100%;
-		height: 50px;
-		border-top: 1px solid #E0E0E0;
-		bottom: 0px; 
-		left: 0px; 
+		font-color:var(white);
 		text-align: center; 
 		
 	padding: 1em 0;
