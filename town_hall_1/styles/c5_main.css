@@ -16,7 +16,9 @@ body {
 background-color:#fffded;
 
     header{background-image: linear-gradient(
-45deg, #f6bb73 30%, white 50%, #f6bb73 80%); }
+45deg, #f6bb73 30%, white 50%, #f6bb73 80%); 
+padding-top:1.5em;
+padding-bottom:2.0em;}
 }
 a:focus, a:hover {
 	font-style: italic;
