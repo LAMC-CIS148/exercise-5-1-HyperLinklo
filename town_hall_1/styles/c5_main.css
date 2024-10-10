@@ -29,8 +29,6 @@ a:focus, a:hover {
 	font-style: italic;
 }
 /* the styles for the header */
-header h1{ border-bottom:#931420;
-	border-top:#931420;}
 
 header h2 {
 	font-size: 175%;
@@ -57,7 +55,12 @@ main {
 }
 main h1 {
 	font-size: 150%;
-	padding: .3em 0;
+	padding: .5em 0  .5em 2em;
+	margin-bottom: .75em;
+	background-color: white;
+	border: 3px double #800000;
+	box-shadow: 5px 5px;
+	border-radius: 10px;
 }
 main h2 {
 	color: var(--global-color-1);
